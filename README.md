@@ -15,6 +15,6 @@ I have added comments as well to the code, so that anyone who has not developed 
 # My take from this project
 Pong really helped me in Understanding and practicing these hands-on:
 *Using JavaScript for game development
-*Bouncing ball trajevtory
+*Bouncing ball trajectory
 *Differentiating between player and non-player entities
 *Importance of having different functions to make code easy to debug
