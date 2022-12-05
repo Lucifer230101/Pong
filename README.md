@@ -13,4 +13,8 @@ in which the ball will bounce off, coding so that the ball can differentiate bet
 I have added comments as well to the code, so that anyone who has not developed this game can understand why a particular line of code is included.
 
 # My take from this project
-This game really helped me in understading these fundamental concepts hands-on.
+Pong really helped me in Understanding and practicing these hands-on:
+*Using JavaScript for game development
+*Bouncing ball trajevtory
+*Differentiating between player and non-player entities
+*Importance of having different functions to make code easy to debug
